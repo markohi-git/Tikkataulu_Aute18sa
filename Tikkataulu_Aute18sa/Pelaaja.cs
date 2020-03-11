@@ -11,6 +11,7 @@ namespace Tikkataulu_Aute18sa
         List<Tikka> Tikat = new List<Tikka>();
         private Tikkataulu TT;
 
+
         public Pelaaja(Tikkataulu tt)
         {
             TT = tt;
